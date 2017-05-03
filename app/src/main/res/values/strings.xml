@@ -1,0 +1,12 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">bestpit</string>
+    <string name="edittest">bestpit</string>
+    <string name="edittest2">bestpit</string>
+    <string name="edittest3">bestpit</string>
+
+    <string android:name="name_confirm_title" name="name"> Confirm Password</string>
+    <string android:name="user_error_message" name="user"> user failed, Try again!</string>/>
+    <string android:name="pass_error_message" name="pass"> user failed, Try again!</string>/>
+
+</resources>
+
